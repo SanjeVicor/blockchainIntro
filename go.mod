@@ -1,3 +1,3 @@
-module github.com/SanjeVicor/blockchain-intro
+module github.com/SanjeVicor/blockchainIntro
 
 go 1.14
